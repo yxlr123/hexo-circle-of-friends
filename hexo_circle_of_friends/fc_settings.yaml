@@ -33,7 +33,7 @@ SETTINGS_FRIENDS_LINKS: {
     json_api: "",
     list: [
         # 示例1：
-        ["土土博客", "https://tutime.cn/", "https://www.tutime.cn/favorite.png" "atom.xml"]
+        ["土土博客", "https://tutime.cn/", "https://www.tutime.cn/favorite.png", "atom.xml"]
         ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
         ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
         # 示例2：使用suffix的配置如下
