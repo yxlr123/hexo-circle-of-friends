@@ -1,0 +1,39 @@
+BLOCK_SITE: []
+DATABASE: sqlite
+DEPLOY_TYPE: github
+GITEE_FRIENDS_LINKS:
+  enable: false
+  owner: ccknbc
+  repo: blogroll
+  state: open
+  type: normal
+GITHUB_FRIENDS_LINKS:
+  enable: false
+  label: active
+  owner: ccknbc
+  repo: ccknbc-actions
+  state: open
+  type: normal
+HTTP_PROXY: false
+LINK:
+- link: https://yxlr.js.cool/links/
+  theme: butterfly
+OUTDATE_CLEAN: 60
+SETTINGS_FRIENDS_LINKS:
+  enable: true
+  json_api: ''
+  list:
+  - - "\u571F\u571F\u535A\u5BA2"
+    - https://tutime.cn/
+    - https://www.tutime.cn/favorite.png
+    - atom.xml
+  - - "\u8D30\u7339\u306E\u5C0F\u7A9D"
+    - https://noionion.top/
+    - https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg
+  - - "Akilar\u306E\u7CD6\u679C\u5C4B"
+    - https://akilar.top/
+    - https://npm.elemecdn.com/akilar-friends@latest/avatar/akilar.top.jpg
+  - - leonus
+    - https://blog.leonus.cn/
+    - https://q1.qlogo.cn/g?b=qq&nk=553344777&s=5
+    - ''
