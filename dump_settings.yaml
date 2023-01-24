@@ -16,7 +16,7 @@ GITHUB_FRIENDS_LINKS:
   type: normal
 HTTP_PROXY: false
 LINK:
-- link: https://yxlr.js.cool/links/
+- link: https://yxlr.js.cool/link/
   theme: butterfly
 OUTDATE_CLEAN: 60
 SETTINGS_FRIENDS_LINKS:
